@@ -230,8 +230,6 @@ Privacy</a><br/>
 
     transform:translate(-3%,-70%);
 
-    top:0%;
-
     background-color:white;
 
     overflow-x:hidden;
